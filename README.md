@@ -1,6 +1,7 @@
 ## YAJET ##
 
-A fork of http://www.yajet.net/ by Mihai Bazon for node.js
+A fork of Mihai Bazon's http://www.yajet.net/ modified slightly for
+use in node.js
 
 If you like it, go to http://www.yajet.net/ and donate.
 
